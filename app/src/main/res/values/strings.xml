@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MoviesAppWithCleanArch</string>
+    <string name="home_page">home_page</string>
+    <string name="my_movies">my_movies</string>
+    <string name="popular_movies">popular_movies</string>
+    <string name="profile">profile</string>
+    <string name="search">search</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movies_list">movies_list</string>
+    <string name="movie_title">movie_title</string>
+    <string name="movieicon">movieicon</string>
+    <string name="movie_description">movie_description</string>
+</resources>

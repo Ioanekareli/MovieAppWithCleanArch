@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/homePage"
+        android:title="@string/home_page"
+        android:icon="@drawable/ic_baseline_home_24"/>
+
+    <item android:id="@+id/myMovies"
+        android:title="@string/my_movies"/>
+
+    <item android:id="@+id/popularMovies"
+        android:title="@string/popular_movies"/>
+
+    <item android:id="@+id/profile"
+        android:title="@string/profile"/>
+
+    <item android:id="@+id/search"
+        android:title="@string/search"/>
+
+</menu>
